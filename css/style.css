@@ -1,10 +1,13 @@
 @font-face{
     font-family: BHoma;
-    src:url(../font/BHoma.ttf)
+    src:url(../font/BHoma.ttf);
+    font-family: btiter;
+    src:url(../font/XB\ TitreIt.ttf)
 }
 
 
 p{
        color: brown;
-       font-family: BHoma;
+      font-family: BHoma;
+      font-family:btiter;
 }
